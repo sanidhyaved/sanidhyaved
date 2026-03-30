@@ -10,7 +10,7 @@
 - 🕵️‍♂️ Security Consultant | Pentester | Red Team | Vulnerability Researcher  
 - 🔍 I break apps (Web, Mobile, API, Network) and sometimes build them  
 - 💡 Passionate about building tools that simplify offensive security  
-- 👨‍🏫 Always learning — always hacking — always exploring
+- 👨‍🏫 Always learning - always hacking - always exploring
 
 ---
 
